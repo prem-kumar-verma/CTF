@@ -7,4 +7,30 @@ Welcome to the ultimate repository for Capture The Flag (CTF) enthusiasts and as
 
 CTF stands for Capture The Flag, and in the context of cybersecurity,often referred to as "ethical hackers" or "security enthusiasts," try to solve a series challenges to find and capture digital flags. These flags are typically strings of text or other data that are hidden within the game
 
+## Why to do CTFs?
 
+- Closest thing to hacking / pentesting for many people
+- Gain experience with tools
+- Competition is fun, motivating, aggravating
+- Meet new people, potential employers or co-workers
+- CTFs as part of placement rounds
+
+- 
+## Types of CTfs
+
+- Jeopardy
+- Attack-defense
+- Mixed/Scenario
+
+## Different types of CTF challenges
+
+- **Forensics**
+- **cryptography**
+- **Binary exploitation**
+- **Reverse Engineering**
+- **Web exploitation**
+- **Steganography**
+- **Networking**
+- **Miscellaneous**
+- **Hardware hacking**
+- **Real-World Scenarios**
