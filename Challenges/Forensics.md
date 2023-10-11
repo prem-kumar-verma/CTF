@@ -39,6 +39,9 @@ so there is a term magic headers...every file type have some bytes...which is in
 
 so we will get this type of corrupted file with changed header only and we have have to make it correct to see the content of the file
 
-- **Audio Forensics**
-
+- **Audio Forensics** some text hidden in audio...spectrogram or morse audio will be given
+ 
+  tools used _ sonic-visualizer
+ 
+  how to install ```sudo apt install sonic-visualizer```
     
