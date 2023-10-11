@@ -24,9 +24,8 @@ so for normal person it will be still a mp3 file..but using binwalk or foremost 
 
 
 
+![Screenshot 2023-10-11 193432](https://github.com/prem-kumar-verma/CTF/assets/84134833/bf2b9801-fff9-4b2a-84e1-de5365e7cfe7)
 
-
-![Screenshot 2023-10-11 192907](https://github.com/prem-kumar-verma/CTF/assets/84134833/3d438ddd-142b-4ad1-96fc-e647f4e834b3)
 ![Screenshot 2023-10-11 192945](https://github.com/prem-kumar-verma/CTF/assets/84134833/6c0defdf-3af1-4d5a-b73e-777dffa3989c)
 
    
