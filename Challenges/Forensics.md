@@ -20,7 +20,7 @@ these are some common things which should be done on any beginner or basic chall
 
 so for normal person it will be still a mp3 file..but using binwalk or foremost you can see if there is any file in it
 
-- **headers** so..lets start from basic here.. every thing in pc or digital world is made up of 0 and 1..and the files which are in pc..they are formed using hex numbers(to see the hex bytes of file..use hex editor..example-https://www.onlinehexeditor.com/) if you open the hex of any file then in left side you will see the hex bytes and in right side it shows the file
+- **headers** so..lets start from basic here.. every thing in pc or digital world is made up of 0 and 1..and the files which are in pc..they are formed using hex numbers(to see the hex bytes of file..use hex editor..example-https://www.onlinehexeditor.com/) if you open the hex of any file then in left side you will see the hex bytes and in right side it shows the file type
 
 
 
@@ -28,6 +28,13 @@ so for normal person it will be still a mp3 file..but using binwalk or foremost 
 
 ![Screenshot 2023-10-11 192945](https://github.com/prem-kumar-verma/CTF/assets/84134833/6c0defdf-3af1-4d5a-b73e-777dffa3989c)
 
-   
+
+
+using file command also we can see what acturally it is..
+
+![Screenshot 2023-10-11 193836](https://github.com/prem-kumar-verma/CTF/assets/84134833/f9b7b969-5418-44f1-b06f-f8f3c4df0ad8)
+
+
+
 
     
