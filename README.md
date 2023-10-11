@@ -24,7 +24,7 @@ CTF stands for Capture The Flag, and in the context of cybersecurity,often refer
 
 ## Different types of CTF challenges
 
-- **Forensics**
+- [**Forensics**](https://github.com/prem-kumar-verma/CTF/blob/main/Challenges/Forensics.md)
 - **cryptography**
 - **Binary exploitation**
 - **Reverse Engineering**
