@@ -1,7 +1,7 @@
 ## Cryptography
 
 
-### What is Cryptograph
+### What is Cryptography
 
 The art of protecting information by transforming the plain text into an unreadable format
 
