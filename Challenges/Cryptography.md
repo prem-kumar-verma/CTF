@@ -1,7 +1,6 @@
-## Cryptography
+## Cryptograph
 
-
-### What is Cryptography
+### What is Cryptograph
 
 The art of protecting information by transforming the plain text into an unreadable format
 
@@ -21,3 +20,20 @@ cryptography is about constructing and analyzing protocols that prevent third pa
 
 
 **Hashing** - Hashing is the process of converting the information into a key using a hash function. The original information cannot be retrieved from the hash key by any means. 
+
+### Types of cryptography
+
+- **SYMMETRIC KEY CRYPTOGRAPHY** - It is the simplest kind of encryption technique that involves only 1 key to encrypt and decrypt
+the most popular symmetric key cryptography system is DES(DATA ENCRYPTION system)
+
+- **ASYMMETRIC KEY CRYPTOGRAPHY** - It is also called public key cryptography, It uses two keys in a pair of key for encryption and Decryption
+
+    1.) Public key- known to everyone
+
+    2.) private key- known only to that particular person
+
+    ****important**** A message that is encrypted using a public key can only be decrypted using a private key
+    
+    and the message encrypted using private key can be decrypted only with a public key
+
+    some popular assymetric key are RSA, DSA, Elliptic cureve etc.
