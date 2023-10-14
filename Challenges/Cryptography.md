@@ -50,3 +50,7 @@ the most popular symmetric key cryptography system is DES(DATA ENCRYPTION system
    - base8  - octal
    - base10  - decimal
    - base16  - hexadecimal
+  
+- ROT cipher[ROt](https://rot13.com/)
+  
+- Caeser cipher
