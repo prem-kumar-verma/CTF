@@ -43,4 +43,10 @@ the most popular symmetric key cryptography system is DES(DATA ENCRYPTION system
       - base32 - always in capital letters
       - base64 - alwayes in alphanumeric + / symbols in it
       - base85 - wierd or unreadable...
-***Important tip - if the equal to (=) sign will be there in the end of the text the text then it will be base cipher algorithm 
+***Important tip - if the equal to (=) sign will be there in the end of the text the text then it will be base cipher algorithm***
+
+ - number system
+       - base2
+       - base8
+       - base10
+       - base16
