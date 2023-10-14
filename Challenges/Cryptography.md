@@ -37,3 +37,10 @@ the most popular symmetric key cryptography system is DES(DATA ENCRYPTION system
     and the message encrypted using private key can be decrypted only with a public key
 
     some popular assymetric key are RSA, DSA, Elliptic cureve etc.
+
+### There are many Cipher Algorithms but some of the main algorithms are
+-  bases (There are 2 sites which I use to encode or decode [cryptii](https://cryptii.com/) [decodeefr](https://www.dcode.fr/en)
+      - base32 - always in capital letters
+      - base64 - alwayes in alphanumeric + / symbols in it
+      - base85 - wierd or unreadable...
+***Important tip - if the equal to (=) sign will be there in the end of the text the text then it will be base cipher algorithm 
