@@ -15,7 +15,7 @@ CTF stands for Capture The Flag, and in the context of cybersecurity,often refer
 - Meet new people, potential employers or co-workers
 - CTFs as part of placement rounds
 
-- 
+
 ## Types of CTfs
 
 - Jeopardy
