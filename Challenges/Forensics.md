@@ -37,9 +37,32 @@ so there is a term magic headers...every file type have some bytes...which is in
 
 so we will get this type of corrupted file with changed header only and we have have to make it correct to see the content of the file
 
-- **Audio Forensics** some text hidden in audio...spectrogram or morse audio will be given
+- **Audio Forensics** (Morse + Spectrogram) some text hidden in audio...spectrogram or morse audio will be given
  
   tools used _ sonic-visualizer
  
   how to install ```sudo apt install sonic-visualizer```
+
+- **steghide** text file embedded in jpg/jpeg file 
+  **TIP:** whenever a jpg/jpeg file is given...try this steghide...it sometimes work without password...if creator used no password...else password is required
+
+  - **zsteg | LSB extractor** searching about LSB (least significant bit) and msb (most significant bit)
+    challenge will have lsb bits changed...and flag is placed ati its place...
     
+    **it also work with png or bmp file**
+    
+    lsb extractor works withe every file...
+    
+    installing zsteg and lsb extractor...
+
+    ```https://github.com/zed-0xff/zsteg.git```
+    
+    ```https://github.com/RobinDavid/LSB-Steganography.git```
+
+  - **stegsolve** It is a java compiled file to view any image in different format...a normal image in black and white
+    to run stesolve ```java -jar stegsolve.jar```
+    try this with image in steganography or forensic challenege
+
+  - **stegsnow** It is used to extract the hidden text like password and whitespace text etc... from the text file
+    in some text file we can see visible text only and if we copy whole text file then some white space also theres then using stegsnow we can see the hidden thing which may contain sometime flag or hint
+      to install ```sudo install stegsnow```
