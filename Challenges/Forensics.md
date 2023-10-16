@@ -33,9 +33,9 @@ using file command also we can see what acturally it is..
 ![Screenshot 2023-10-11 193836](https://github.com/prem-kumar-verma/CTF/assets/84134833/f9b7b969-5418-44f1-b06f-f8f3c4df0ad8)
 
 
-so there is a term magic headers...every file type have some bytes...which is in its left part of header in image above which represnts the specific [extension](https://en.wikipedia.org/wiki/List_of_file_signatures) of that file....if any digit is missing then the file will be corrupted
+  so there is a term magic headers...every file type have some bytes...which is in its left part of header in image above which represnts the specific [extension](https://en.wikipedia.org/wiki/List_of_file_signatures) of that file....if any digit is missing then the file will be corrupted
 
-so we will get this type of corrupted file with changed header only and we have have to make it correct to see the content of the file
+  so we will get this type of corrupted file with changed header only and we have have to make it correct to see the content of the file
 
 - **Audio Forensics** (Morse + Spectrogram) some text hidden in audio...spectrogram or morse audio will be given
  
