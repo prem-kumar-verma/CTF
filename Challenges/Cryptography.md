@@ -63,5 +63,7 @@ the most popular symmetric key cryptography system is DES(DATA ENCRYPTION system
 5. Rot Decoder: [theblob.org - rot.cgi](https://theblob.org/rot.cgi)
 6. Twin Hex: [calcresult.com - twin-hex](https://www.calcresult.com/misc/cyphers/twin-hex.html)
 7. Decoder 7: [Boxentriq - Playfair Cipher](https://www.boxentriq.com/code-breaking/playfair-cipher)
+8. Decoder 8: [Boxentriq - Cipher Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier)
+
 
 
