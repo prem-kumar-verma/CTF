@@ -43,25 +43,26 @@ using file command also we can see what acturally it is..
  
   how to install ```sudo apt install sonic-visualizer```
 
-- **steghide** text file embedded in jpg/jpeg file 
-  **TIP:** whenever a jpg/jpeg file is given...try this steghide...it sometimes work without password...if creator used no password...else password is required
+## Steghide: Extract Text Files Embedded in JPG/JPEG Images
 
-- **zsteg | LSB extractor** searching about LSB (least significant bit) and msb (most significant bit)
-    challenge will have lsb bits changed...and flag is placed ati its place...
-    
-    **it also work with png or bmp file**
-    
-    lsb extractor works withe every file...
-    
-    installing zsteg and lsb extractor...
+Steghide is a powerful tool for extracting text files embedded within JPG or JPEG images. It's particularly useful in situations where a creator may have omitted a password, as Steghide can sometimes work without one. To use Steghide, ensure that you have it installed and simply run it with the target image file. If no password is set, you may find hidden text within the image.
 
-    ```https://github.com/zed-0xff/zsteg.git```
-    
-    ```https://github.com/RobinDavid/LSB-Steganography.git```
+**GitHub:** [Steghide Repository](https://github.com/StefanoDeVuono/steghide)
 
-- **stegsolve** It is a java compiled file to view any image in different format...a normal image in black and white
-    to run stesolve ```java -jar stegsolve.jar```
-    try this with image in steganography or forensic challenege
+## zsteg: LSB Extractor for Data Hidden in Images
+
+zsteg is an LSB (Least Significant Bit) extractor that can help you search for hidden information in images. It's particularly effective in challenges involving changes to LSB or MSB (Most Significant Bit). The flag or hidden data may be placed in these bits. zsteg works with various image formats, including PNG and BMP. To use it, install zsteg and run it on your target image file.
+
+**GitHub:** [zsteg Repository](https://github.com/zed-0xff/zsteg.git)
+
+## Stegsolve: View Images in Different Formats
+
+Stegsolve is a Java-based tool that allows you to view images in various formats, from a normal image in black and white to other visual representations. This tool is incredibly handy for examining images in steganography or forensic challenges. To use Stegsolve, run it with a Java command on the image you wish to explore.
+
+**GitHub:** [Stegsolve Repository](https://github.com/e3amn2l/stegsolve)
+
+These tools are valuable assets for digital forensics and cybersecurity professionals seeking to uncover hidden data within images and explore them in different visual formats.
+
 
 ## Stegsnow: Extract Hidden Text from Text Files
 
