@@ -54,16 +54,16 @@ the most popular symmetric key cryptography system is DES(DATA ENCRYPTION system
 - ROT cipher [ROt](https://rot13.com/)
   
 - Caeser cipher
-- List of Cryptography Tools used in CTFs:
+### List of Cryptography Tools used in CTFs:
 
-1. Decoder 1: [dcode.fr - symbols-ciphers](https://www.dcode.fr/cipher-identifier)
-2. Decoder 2: [cryptii.com](https://cryptii.com/)
-3. Decoder 3: [gchq.github.io - CyberChef](https://gchq.github.io/CyberChef)
-4. Decoder 4: [crackstation.net](https://crackstation.net/)
-5. Rot Decoder: [theblob.org - rot.cgi](https://theblob.org/rot.cgi)
-6. Twin Hex: [calcresult.com - twin-hex](https://www.calcresult.com/misc/cyphers/twin-hex.html)
-7. Decoder 7: [Boxentriq - Playfair Cipher](https://www.boxentriq.com/code-breaking/playfair-cipher)
-8. Decoder 8: [Boxentriq - Cipher Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier)
+- **Cipher identifier:** [dcode.fr - symbols-ciphers](https://www.dcode.fr/cipher-identifier)
+- **Cipher identifier:** [Boxentriq - Cipher Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier)
+- **Decoder 1:** [cryptii.com](https://cryptii.com/)
+- **analyzer and magic decoder:** [gchq.github.io - CyberChef](https://gchq.github.io/CyberChef)
+- **Password hash decoder:** [crackstation.net](https://crackstation.net/)
+- **Rot Decoder:** [theblob.org - rot.cgi](https://theblob.org/rot.cgi)
+- **Twin Hex:** [calcresult.com - twin-hex](https://www.calcresult.com/misc/cyphers/twin-hex.html)
+  
 
 
 
