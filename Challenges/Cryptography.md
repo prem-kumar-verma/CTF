@@ -54,3 +54,12 @@ the most popular symmetric key cryptography system is DES(DATA ENCRYPTION system
 - ROT cipher [ROt](https://rot13.com/)
   
 - Caeser cipher
+- List of Cryptography Tools used in CTFs:
+
+1. Decoder 1: [dcode.fr - symbols-ciphers](https://www.dcode.fr/symbols-ciphers)
+2. Decoder 2: [cryptii.com](https://cryptii.com/)
+3. Decoder 3: [gchq.github.io - CyberChef](https://gchq.github.io/CyberChef)
+4. Decoder 4: [crackstation.net](https://crackstation.net/)
+5. Rot Decoder: [theblob.org - rot.cgi](https://theblob.org/rot.cgi)
+6. Twin Hex: [calcresult.com - twin-hex](https://www.calcresult.com/misc/cyphers/twin-hex.html)
+
