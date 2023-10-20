@@ -63,9 +63,11 @@ using file command also we can see what acturally it is..
     to run stesolve ```java -jar stegsolve.jar```
     try this with image in steganography or forensic challenege
 
-- **stegsnow** It is used to extract the hidden text like password and whitespace text etc... from the text file
-    in some text file we can see visible text only and if we copy whole text file then some white space also theres then using stegsnow we can see the hidden thing which may contain sometime flag or hint
-      to install ```sudo install stegsnow```
+- ## Stegsnow: Extract Hidden Text from Text Files
+
+Stegsnow is a versatile tool used for extracting concealed text, such as passwords and whitespace text, from text files. It comes in handy when you encounter text files where only visible text is apparent, and copying the entire file reveals hidden whitespace or other content. Stegsnow allows you to unveil these hidden elements, which may contain valuable information, including flags or installation hints.
+Find Stegsnow on GitHub at [https://github.com/Paradoxis/Stegsnow](https://github.com/Paradoxis/Stegsnow).
+
   
  ## Stegseek: Lightning-Fast Steghide Cracker
 Stegseek is a lightning-fast steghide cracker, built as a fork of the original steghide project. It boasts extraordinary speed, capable of processing the entire rockyou.txt* wordlist in under 2 seconds. Additionally, Stegseek can extract steghide metadata without the need for a password, making it an essential tool for uncovering hidden data within files. 
