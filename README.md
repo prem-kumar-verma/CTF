@@ -26,9 +26,9 @@ CTFs as part of placement rounds
 
 - [**Forensics**](https://github.com/prem-kumar-verma/CTF/blob/main/Challenges/Forensics.md)
 - [**cryptography**](https://github.com/prem-kumar-verma/CTF/blob/main/Challenges/Cryptography.md)
-**Binary exploitation**
-**Reverse Engineering**
-[**web exploitation**](https://github.com/prem-kumar-verma/CTF/blob/main/Challenges/WebExploitation.md)
+- [**web exploitation**](https://github.com/prem-kumar-verma/CTF/blob/main/Challenges/WebExploitation.md)
+- **Binary exploitation**
+- **Reverse Engineering**
 - **Steganography**
 - **Networking**
 - **Miscellaneous**
