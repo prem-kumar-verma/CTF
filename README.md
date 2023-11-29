@@ -24,7 +24,7 @@ CTFs as part of placement rounds
 
 ## Different types of CTF challenges
 
-- [**operating system**]()
+- [**operating system**](https://github.com/prem-kumar-verma/CTF/blob/main/Challenges/Operating_system.md)
 - [**Basics**](https://github.com/prem-kumar-verma/CTF/blob/main/Challenges/Basic.md)
 - [**Forensics**](https://github.com/prem-kumar-verma/CTF/blob/main/Challenges/Forensics.md)
 - [**cryptography**](https://github.com/prem-kumar-verma/CTF/blob/main/Challenges/Cryptography.md)
