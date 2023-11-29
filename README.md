@@ -31,7 +31,7 @@ CTFs as part of placement rounds
 - [**web exploitation**](https://github.com/prem-kumar-verma/CTF/blob/main/Challenges/WebExploitation.md)
 - **Binary exploitation**
 - **Reverse Engineering**
-- **Steganography**
+- [**Steganography**](https://github.com/prem-kumar-verma/CTF/blob/main/Challenges/Steganography.md)
 - **Networking**
 - **Miscellaneous**
 Hardware hacking
