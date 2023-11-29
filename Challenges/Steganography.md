@@ -1,1 +1,38 @@
+# A method to hiding something in something 
+- **General**
+    - Usually when organizer gave us image, music, video, zip, exe, file system, pdf and other files, it a steganography or forensics challenge. Run ```file``` command list
+    - Metadata is important. Checkout the exif data of the file by using ```exiftool [filename]``` command
+    - Try using ```binwalk [filename]``` on the file. They may hide another file in the file.
+        - To extract use ```binwalk -e```
+        - To extract one specific signature type, use ```binwalk -D 'png image:png' [filename]```
+        - To extract all files, run ```binwalk --dd='.*' [filename]```
+    - Try file carve using ```foremost -v [filename] command. Foremost support all files
 
+- **Images**
+    - View the image first
+    - Use ```strings``` command to that file
+        - Try ```grep -i [any string you want to filter] from the ```strings``` command output
+        - Example ```grep -i "flag{"``` to filtering the lag format only. ```-i``` option to unable case sensitive.
+    - Google the images, diffentiable the ```md5hash```. If you found some image but have a different md5 hash, it may probably have been altered.
+    - Analyse the header and the content of the file using any ***hex editor***
+    - Know the ***file signature*** Maybe they gave us corrupt header! so fix it!
+    - Maybe ***zoom-in*** and ***zoom-out*** method can get the flag
+    - Use [https://www.tineye.com/](https://www.tineye.com) to reverse search the image in the internet
+    - Use ```imagemagick``` command to do image manipulation
+    - Use ***stegsolve.jar*** tools. There are so many CTF I've participated that I used this tool to unhide flag from an image
+    - File carve using ```steghide --extract -sf <filename>``` Try find the password with your own-self. Maybe the organizer will give hints or the password may in another file.
+    - Check for any corruption on PNG file by using ```pngcheck <filename.png>``` command
+    - Detect stegano-hidden data in PNG &BMPs by ```issuing zteg -a <filename.png>
+    - Use ***SmartDeblur*** software to fix blurry on image
+    - Use ```stegcracker <filename> <wordlist> tools steganography brute-force password utility to uncover hidden data inside files
+    - Use ```tesseract``` to scan text in image and cover it to .txt file.
+    - Another powerfool tool is called zteg
+    - Steganosuite
+        - Extract data from image (-x)
+    - some of online stegano decoder are
+        - [https://futureboy.us/stegano/decinput.html](https://futureboy.us/stegano/decinput.html)
+        - [http://stylesuxx.github.io/steganography/](http://stylesuxx.github.io/steganography/)
+        - [https://www.mobilefish.com/services/steganography/steganography.php](https://www.mobilefish.com/services/steganography/steganography.php)
+        - [https://steganosaur.us/dissertation/tools/image](https://steganosaur.us/dissertation/tools/image)
+        - [https://georgeom.net/StegOnline](https://georgeom.net/StegOnline)
+        - [http://magiceye.ecksdee.co.uk/](http://magiceye.ecksdee.co.uk/)
