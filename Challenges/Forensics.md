@@ -11,6 +11,10 @@ these are some common things which should be done on any beginner or basic chall
 
 - **strings** This ia linux command..which tells what all text is there inside the file..irrespective of its type..file can be executable,text,image etc..
 
+- **online steganography is https://www.aperisolve.com/**
+  
+- **online audio decoderhttps://morsecode.world/**
+
 - **exiftool** To understand this Lets take a example.. I have a image..it will have some info..like..dimensions,pixels,author etc etc. So, these are called metadata and each file have some metadata..usually challenges have flags or hint saved in their metadata 
 
   exiftool is a linux command. To install it ```sudo apt install exiftool ```
